@@ -1,0 +1,13 @@
+
+{
+    "name": "com.shawnkdu.screengrabber",
+    "displayName": "Gameka ScreenGrabber",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "description": "Grabs screenshots",
+    "keywords": ["screen", "shot", "grab"],
+    "category": "Utility",
+    "dependencies": {
+	
+    }
+}
